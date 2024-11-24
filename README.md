@@ -46,6 +46,7 @@ Add Shows: Assign a movie to a theater with details like showtime and available 
 Delete Entries: Admin can delete movies or shows.
 
 PROJECT FLOW:
-Login and Registration: Users can register and log in. Admins manage movie data; customers book tickets.
+Login and Registration: Users can register and log in.
+Admins manage movie data; customers book tickets.
 Admin Panel: Admins add/edit/delete movies, theaters, and shows.
 Booking System: Customers select shows and book seats.
